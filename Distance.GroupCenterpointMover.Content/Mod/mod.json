@@ -1,0 +1,12 @@
+{
+	"FriendlyName": "GroupCenterpointMover",
+	"Author": "PB",
+	"Contact": "( .-.)",
+	"ModuleFileName": "Distance.GroupCenterpointMover.dll",
+	"Dependencies": [],
+	"SkipLoad": false,
+	"Priority": 10,
+	"RequiredGSLs": [
+		"com.github.reherc/Centrifuge.Distance"
+	]
+}
